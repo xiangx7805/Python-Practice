@@ -2,7 +2,7 @@
 :bulb: Python article share & Python projects practice :books:
 
 ## Article
-1. [Little known python data science library(Chinese)](https://mp.weixin.qq.com/s?__biz=MzI1MTE2ODg4MA==&mid=2650070574&idx=1&sn=bdf78dbae1abbaad2dcf7e8014e59a14&chksm=f1f76f31c680e627694add8732735fd2a355b271a1d64c49e56783a86dd83544464e95fa6688&mpshare=1&scene=1&srcid=#rd)
+## 1. [Little known python data science library(Chinese)](https://mp.weixin.qq.com/s?__biz=MzI1MTE2ODg4MA==&mid=2650070574&idx=1&sn=bdf78dbae1abbaad2dcf7e8014e59a14&chksm=f1f76f31c680e627694add8732735fd2a355b271a1d64c49e56783a86dd83544464e95fa6688&mpshare=1&scene=1&srcid=#rd)
   *  `wget`:非交互的基于命令行的文件下载库
   *  [`Pendulum`](https://pendulum.eustace.io/docs/) : 处理时期（时间）数据
   *  [`imbalanced-learn`](http://imbalanced-learn.org/en/stable):机器学习分类算法**非均衡数据**
